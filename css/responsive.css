@@ -1,0 +1,13 @@
+@media screen and (min-width: 700px) {
+	h1 {
+		font-size: 22px;
+	}
+	
+	.options-box {
+		width: 250px;
+	}
+	
+	#map {
+		left: 270px;
+	}
+}
